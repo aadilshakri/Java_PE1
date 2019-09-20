@@ -2,8 +2,8 @@ import java.io.*;
 import java. util. Scanner;
 import java.util.ArrayList;
 
-class Seven{
-    public static void main (String[] args)
+class SortNumber{
+    public static void sort()
     {
         Scanner sc = new Scanner (System.in);
         int n = sc.nextInt();

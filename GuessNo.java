@@ -2,8 +2,8 @@ import java.io.*;
 import java.util.Random; 
 import java. util. Scanner;
 
-class Eight{
-    public static void main (String[] args)
+class GuessNo{
+    public static void guess_no()
     {
         Random rand = new Random(); 
         int tar_no= rand.nextInt(100);

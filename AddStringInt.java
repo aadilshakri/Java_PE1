@@ -1,8 +1,8 @@
 import java.io.*;
 import java. util. Scanner;
 
-class Five{
-    public static void main (String[] args)
+class AddStringInt{
+    public static void addintegers()
     {
         int sum=0;
         Scanner sc = new Scanner (System.in);

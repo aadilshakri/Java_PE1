@@ -1,8 +1,8 @@
 import java.io.*;
 import java. util. Scanner;
 
-class Six{
-    public static void main (String[] args)
+class CharIdentity{
+    public static void char_identity()
     {
         Scanner sc = new Scanner (System.in);
         char n = sc.next().charAt(0);

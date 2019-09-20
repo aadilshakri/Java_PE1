@@ -1,8 +1,8 @@
 import java.io.*;
 import java. util. Scanner;
 
-class Three{
-    public static void main (String[] args)
+class VowelAndConsonant{
+    public static void vowel_consonant()
     {
         Scanner sc = new Scanner (System.in);
         String s = sc.nextLine();

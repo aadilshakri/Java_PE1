@@ -1,8 +1,8 @@
 import java.io.*;
 import java. util. Scanner;
 
-class Nine{
-    public static void main (String[] args)
+class ReverseString{
+    public static void reverse()
     {
         Scanner sc = new Scanner (System.in);
         String s = sc.nextLine();

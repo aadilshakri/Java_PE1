@@ -1,8 +1,8 @@
 import java.io.*;
 import java. util. Scanner;
 
-class Two{
-    public static void main (String[] args)
+class TomAndJerry{
+    public static void tom_jerry()
     {
         Scanner sc = new Scanner (System.in);
         int n = sc.nextInt();
